@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HackerPaint/static/css/main.bc8c263e.chunk.css",
+    "main.js": "/HackerPaint/static/js/main.24d15aca.chunk.js",
+    "main.js.map": "/HackerPaint/static/js/main.24d15aca.chunk.js.map",
+    "runtime-main.js": "/HackerPaint/static/js/runtime-main.87fbfa1a.js",
+    "runtime-main.js.map": "/HackerPaint/static/js/runtime-main.87fbfa1a.js.map",
+    "static/js/2.03130f19.chunk.js": "/HackerPaint/static/js/2.03130f19.chunk.js",
+    "static/js/2.03130f19.chunk.js.map": "/HackerPaint/static/js/2.03130f19.chunk.js.map",
+    "index.html": "/HackerPaint/index.html",
+    "static/css/main.bc8c263e.chunk.css.map": "/HackerPaint/static/css/main.bc8c263e.chunk.css.map",
+    "static/js/2.03130f19.chunk.js.LICENSE.txt": "/HackerPaint/static/js/2.03130f19.chunk.js.LICENSE.txt",
+    "static/media/wait.c2277320.gif": "/HackerPaint/static/media/wait.c2277320.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87fbfa1a.js",
+    "static/js/2.03130f19.chunk.js",
+    "static/css/main.bc8c263e.chunk.css",
+    "static/js/main.24d15aca.chunk.js"
+  ]
+}
